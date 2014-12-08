@@ -1,5 +1,5 @@
 
-# Realtime Acoustic Detectors for the RADd System
+# Realtime Acoustic Detection Examples
 
 The Realtime Acoustic Detection daemon (RADd) provides a framework for applying acoustic detection and classification algorithms to a near-realtime stream of audio.  It has been designed to run on debian linux or derivatives, specifically targetting [Gumstix](https://www.gumstix.com/) and [Raspbian on a Raspberry Pi](http://www.raspbian.org/).
 
